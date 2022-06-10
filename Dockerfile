@@ -1,4 +1,4 @@
-FROM gitpod/workspace-full-vnc
+FROM devfactory/workspace-full-vnc
 
 USER root
 # add your tools here
